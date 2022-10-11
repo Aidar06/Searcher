@@ -54,6 +54,9 @@
   #header .navbar--input {
     display: none;
   }
+  #header .navbar .open-burger-menu {
+    display: block;
+  }
   #header .navbar--nav {
     display: none;
   }

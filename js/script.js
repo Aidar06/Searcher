@@ -7,3 +7,14 @@ const swiper = new Swiper(".mySwiper", {
         clickable: true,
     },
 });
+
+const openBurger = document.querySelector('.open-burger-menu')
+openBurger.addEventListener('click', () =>{
+    document.querySelector('.burger').style.display = 'block'
+})
+
+const closeBurger = document.querySelector('.close-burger-menu')
+closeBurger.addEventListener('click', () =>{
+    document.querySelector('.burger').style.display = 'none'
+})
+
