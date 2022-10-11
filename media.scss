@@ -263,6 +263,137 @@
 
 }
 
+@media (max-width: 510px) {
+  #hero h3 {
+    font-size: 14px;
+    padding-top: 132px;
+  }
+
+  #hero {
+    .hero {
+      &--block div {
+        img {
+          width: 40%;
+          margin: 0 10px;
+        }
+
+        h1 {
+          font-size: 33px;
+        }
+      }
+
+      &--group__circle {
+        margin-left: 150px;
+        width: 180px;
+        height: 280px;
+        padding-top: 20px;
+      }
+
+      &--group__img {
+        left: 76px;
+        top: 130px;
+      }
+
+      .hero--group__p1 p{
+        padding-top: 10px;
+      }
+
+      .hero--group__p {
+        padding-top: 50px;
+        padding-bottom: 25px;
+        display: flex;
+      }
+    }
+
+  }
+
+  #foremost .foremost .swiper-slide div button {
+    width: 41px;
+    height: 22px;
+    font-size: 9px;
+  }
+
+  #app .app img {
+    margin: 10px 0px;
+    width: 28%;
+  }
+
+  #discover{
+    .discover{
+      .discover--group{
+        input {
+          width: 200px;
+          font-size: 18px;
+          height: 50px;
+        }
+
+        button {
+          width: 140px;
+          height: 50px;
+          font-size: 18px;
+        }
+      }
+      .discover--block__monkey {
+        width: 315px;
+        height: 470px;
+      }
+    }
+  }
+
+  #collection .collection--block {
+    width: 90%;
+  }
+
+  #family {
+    padding: 50px 0;
+  }
+
+  #get .get--accordion details{
+    summary{
+      div{
+        img{
+          width: 30%;
+        }
+
+        h2{
+          font-size: 14px;
+          padding-top: 8px;
+        }
+      }
+
+      h1{
+        font-size: 14px;
+      }
+
+      p {
+        font-size: 8px;
+      }
+    }
+  }
+
+  #contact{
+    .contact--logo h1{
+      padding-right: 117px
+    }
+    .contact--block h2 {
+      padding-top: 10px;
+      font-size: 17px;
+    }
+
+    .contact--group{
+      align-content: space-between;
+      align-items: center;
+      h2 {
+        font-size: 17px;
+        line-height: 30px;
+        padding-top: 7px;
+      }
+
+
+    }
+  }
+}
+
 @media (max-width: 451px) {
   #hero h3 {
     font-size: 14px;
@@ -393,7 +524,6 @@
     }
   }
 }
-
 
 
 @media (max-width: 400px) {

@@ -186,6 +186,95 @@
     font-size: 10px;
   }
 }
+@media (max-width: 510px) {
+  #hero h3 {
+    font-size: 14px;
+    padding-top: 132px;
+  }
+  #hero .hero--block div img {
+    width: 40%;
+    margin: 0 10px;
+  }
+  #hero .hero--block div h1 {
+    font-size: 33px;
+  }
+  #hero .hero--group__circle {
+    margin-left: 150px;
+    width: 180px;
+    height: 280px;
+    padding-top: 20px;
+  }
+  #hero .hero--group__img {
+    left: 76px;
+    top: 130px;
+  }
+  #hero .hero .hero--group__p1 p {
+    padding-top: 10px;
+  }
+  #hero .hero .hero--group__p {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    display: flex;
+  }
+  #foremost .foremost .swiper-slide div button {
+    width: 41px;
+    height: 22px;
+    font-size: 9px;
+  }
+  #app .app img {
+    margin: 10px 0px;
+    width: 28%;
+  }
+  #discover .discover .discover--group input {
+    width: 200px;
+    font-size: 18px;
+    height: 50px;
+  }
+  #discover .discover .discover--group button {
+    width: 140px;
+    height: 50px;
+    font-size: 18px;
+  }
+  #discover .discover .discover--block__monkey {
+    width: 315px;
+    height: 470px;
+  }
+  #collection .collection--block {
+    width: 90%;
+  }
+  #family {
+    padding: 50px 0;
+  }
+  #get .get--accordion details summary div img {
+    width: 30%;
+  }
+  #get .get--accordion details summary div h2 {
+    font-size: 14px;
+    padding-top: 8px;
+  }
+  #get .get--accordion details summary h1 {
+    font-size: 14px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 8px;
+  }
+  #contact .contact--logo h1 {
+    padding-right: 117px;
+  }
+  #contact .contact--block h2 {
+    padding-top: 10px;
+    font-size: 17px;
+  }
+  #contact .contact--group {
+    align-content: space-between;
+    align-items: center;
+  }
+  #contact .contact--group h2 {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 7px;
+  }
+}
 @media (max-width: 451px) {
   #hero h3 {
     font-size: 14px;
