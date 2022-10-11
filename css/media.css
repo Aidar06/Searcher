@@ -1,0 +1,386 @@
+@media (max-width: 1201px) {
+  #hero .hero--group__circle {
+    margin-left: 150px;
+  }
+  #app .app img {
+    margin: 20px 30px;
+  }
+  #discover .discover .discover--block__monkey {
+    width: 250px;
+    height: 421px;
+  }
+  #collection .collection {
+    justify-content: center;
+  }
+  #collection .collection--block {
+    margin: 20px 50px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 1024px) {
+  #header .navbar--input {
+    width: 240px;
+  }
+  #header .navbar--nav a {
+    padding: 0 10px;
+  }
+  #hero .hero--group__img {
+    left: 275px;
+  }
+  #hero .hero--group p {
+    font-size: 13px;
+  }
+  #app .app img {
+    margin: 20px 10px;
+  }
+  #collection .collection--block {
+    margin: 20px 10px;
+  }
+  #contact .contact {
+    flex-wrap: wrap;
+  }
+  #contact .contact--logo h1 {
+    padding-right: 600px;
+  }
+}
+@media (max-width: 992px) {
+  #family .family div img {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  #header .navbar--input {
+    display: none;
+  }
+  #header .navbar--nav {
+    display: none;
+  }
+  #header .navbar--icon {
+    display: none;
+  }
+  #hero .hero--block div {
+    justify-content: center;
+    padding: 10px 0;
+  }
+  #hero .hero--block div h1 {
+    font-size: 66px;
+  }
+  #hero .hero--group {
+    padding: 0 0;
+    flex-direction: column;
+  }
+  #hero .hero--group__p1 {
+    padding-top: 0;
+  }
+  #hero .hero--group__img {
+    width: 50%;
+    left: 126px;
+    top: 100px;
+  }
+  #hero .hero--group__circle {
+    margin-left: 250px;
+    width: 300px;
+    height: 490px;
+  }
+  #foremost {
+    padding: 0 0;
+  }
+  #discover .discover .discover--block {
+    justify-content: center;
+  }
+  #discover .discover .discover--block__monkey {
+    margin: 20px 30px;
+  }
+  #collection {
+    padding: 0 0;
+  }
+  #collection .collection--block {
+    margin: 20px 5px;
+    width: 330px;
+  }
+  #get {
+    padding: 0 0;
+  }
+  #contact {
+    padding: 40px 0;
+  }
+  #contact .contact--logo h1 {
+    padding-right: 400px;
+  }
+  #contact .contact--block h2 {
+    font-size: 26px;
+  }
+  #contact .contact--group h2 {
+    font-size: 26px;
+    padding-top: 10px;
+  }
+  #contact .contact--group div {
+    margin-top: 20px;
+  }
+  #contact .contact--group div input {
+    width: 180px;
+  }
+  #footer .footer--block div {
+    margin: 0 6px;
+  }
+}
+@media (max-width: 576px) {
+  #hero .hero--block div {
+    align-items: center;
+  }
+  #hero .hero--block div h1 {
+    font-size: 40px;
+  }
+  #hero .hero--block div img {
+    width: 50%;
+  }
+  #hero .hero--group__circle {
+    margin-left: 220px;
+    width: 250px;
+    height: 382px;
+  }
+  #foremost .foremost .swiper-slide div h1 {
+    font-size: 16px;
+  }
+  #foremost .foremost .swiper-slide div p {
+    font-size: 10px;
+  }
+  #discover .discover .discover--block__monkey {
+    width: 230px;
+    height: 392px;
+    margin: 10px 10px;
+  }
+  #collection .collection {
+    padding-top: 10px;
+  }
+  #collection .collection--block {
+    margin: 10px 5px;
+    width: 80%;
+  }
+  #get .get--accordion details summary h1 {
+    font-size: 23px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 10px;
+  }
+  #contact .contact--logo h1 {
+    padding-right: 260px;
+    font-size: 55px;
+  }
+  #contact .contact--logo h1 span {
+    font-size: 40px;
+  }
+  #contact .contact--block h2 {
+    font-size: 20px;
+  }
+  #contact .contact--group h2 {
+    font-size: 20px;
+    padding-top: 7px;
+  }
+  #footer .footer p {
+    font-size: 10px;
+  }
+}
+@media (max-width: 451px) {
+  #hero h3 {
+    font-size: 14px;
+    padding-top: 132px;
+  }
+  #hero .hero--block div img {
+    width: 40%;
+    margin: 0 10px;
+  }
+  #hero .hero--block div h1 {
+    font-size: 33px;
+  }
+  #hero .hero--group__circle {
+    margin-left: 150px;
+    width: 180px;
+    height: 280px;
+    padding-top: 20px;
+  }
+  #hero .hero--group__img {
+    left: 76px;
+    top: 130px;
+  }
+  #hero .hero .hero--group__p1 p {
+    padding-top: 10px;
+  }
+  #hero .hero .hero--group__p {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    display: flex;
+  }
+  #foremost .foremost .swiper-slide div button {
+    width: 41px;
+    height: 22px;
+    font-size: 9px;
+  }
+  #app .app img {
+    margin: 10px 0px;
+    width: 28%;
+  }
+  #discover .discover .discover--group input {
+    width: 200px;
+    font-size: 18px;
+    height: 50px;
+  }
+  #discover .discover .discover--group button {
+    width: 140px;
+    height: 50px;
+    font-size: 18px;
+  }
+  #discover .discover .discover--block__monkey {
+    width: 315px;
+    height: 470px;
+  }
+  #collection .collection--block {
+    width: 90%;
+  }
+  #family {
+    padding: 50px 0;
+  }
+  #get .get--accordion details summary div img {
+    width: 30%;
+  }
+  #get .get--accordion details summary div h2 {
+    font-size: 14px;
+    padding-top: 8px;
+  }
+  #get .get--accordion details summary h1 {
+    font-size: 14px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 8px;
+  }
+  #contact .contact--logo h1 {
+    padding-right: 117px;
+  }
+  #contact .contact--block h2 {
+    padding-top: 10px;
+    font-size: 17px;
+  }
+  #contact .contact--group {
+    align-content: space-between;
+    align-items: center;
+  }
+  #contact .contact--group h2 {
+    font-size: 17px;
+    line-height: 30px;
+    padding-top: 7px;
+  }
+}
+@media (max-width: 400px) {
+  #hero .hero--block {
+    padding-top: 20px;
+  }
+  #hero .hero--block div h1 {
+    font-size: 30px;
+  }
+  #hero .hero--group__circle {
+    height: 242px;
+  }
+  #foremost .foremost .swiper-slide div {
+    bottom: 14px;
+  }
+  #foremost .foremost .swiper-slide div h1 {
+    font-size: 11px;
+  }
+  #foremost .foremost .swiper-slide div p {
+    font-size: 8px;
+  }
+  #discover .discover .discover--group input {
+    width: 170px;
+    height: 50px;
+    font-size: 15px;
+  }
+  #discover .discover .discover--group button {
+    width: 140px;
+    height: 55px;
+    font-size: 15px;
+  }
+  #get .get--accordion details summary h1 {
+    font-size: 12px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 7px;
+  }
+  #get .get--accordion details p {
+    font-size: 10px;
+  }
+  #footer .footer--block div {
+    width: 22px;
+    height: 22px;
+  }
+}
+@media (max-width: 376px) {
+  #hero .hero--block {
+    padding: 0 0;
+  }
+  #hero .hero--group__circle {
+    margin-left: 120px;
+    height: 220px;
+  }
+  #collection .collection--block {
+    width: 100%;
+  }
+  #collection .collection--block__name h2 {
+    font-size: 13px;
+  }
+  #collection .collection--block__name p {
+    font-size: 15px;
+  }
+  #family .family div h1 {
+    bottom: 25px;
+    left: 40px;
+    font-size: 30px;
+  }
+}
+@media (max-width: 320px) {
+  #hero .hero--block div h1 {
+    font-size: 24px;
+  }
+  #hero .hero--group__circle {
+    margin-left: 113px;
+    height: 179px;
+    width: 140px;
+  }
+  #hero .hero .hero--group__p1 p {
+    padding-top: 22px;
+  }
+  #foremost .foremost .swiper-slide div {
+    bottom: 8px;
+  }
+  #foremost .foremost .swiper-slide div h1 {
+    font-size: 9px;
+  }
+  #foremost .foremost .swiper-slide div p {
+    font-size: 6px;
+  }
+  #foremost .foremost .swiper-slide div button {
+    width: 30px;
+    height: 15px;
+    font-size: 9px;
+    margin-top: 10px;
+  }
+  #discover .discover .discover--block__monkey {
+    height: 440px;
+  }
+  #get .get--accordion details summary h1 {
+    font-size: 10px;
+  }
+  #get .get--accordion details summary p {
+    font-size: 4px;
+  }
+  #footer .footer p {
+    font-size: 6px;
+  }
+  #footer .footer--block h1 {
+    font-size: 40px;
+    padding-right: 4px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
